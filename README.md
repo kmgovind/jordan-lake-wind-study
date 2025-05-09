@@ -18,4 +18,4 @@ Characterizing historical wind data at Jordan Lake, NC
 3. Install dependencies: `pip install -r requirements.txt`
 
 # Pulling wind data
-NREL WIND
+To pull data from the NREL dataset reference: [https://github.com/NREL/hsds-examples](https://github.com/NREL/hsds-examples)
