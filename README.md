@@ -16,3 +16,6 @@ Characterizing historical wind data at Jordan Lake, NC
 1. Create a virtual environment: `python -m venv venv`
 2. Activate it: `venv\Scripts\activate`
 3. Install dependencies: `pip install -r requirements.txt`
+
+# Pulling wind data
+NREL WIND
